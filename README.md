@@ -2,6 +2,8 @@
 
 Website showcasing the factions of Star Wars: The Empire and The Rebellion.
 
+<img width="856" height="637" alt="image" src="https://github.com/user-attachments/assets/05baa06e-b2bd-41ea-a2c9-1d396066c9d2" />
+
 ## Tech Stack
 
 - Next.js 16
