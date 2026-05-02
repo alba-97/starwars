@@ -1,0 +1,17 @@
+{
+  "title": "Los Bandos de la Fuerza",
+  "subtitle": "Dos bandos enfrentaron en una guerra que definiría el destino de la galaxia.",
+  "imperial": "El Imperio",
+  "rebel": "La Rebelión",
+  "leaderLabel": "Líder",
+  "troopsTitle": "Tropas",
+  "vehiclesTitle": "Vehículos",
+  "infantry": "Infantería",
+  "droid": "Droide",
+  "walker": "Caminante",
+  "tieFighter": "TIE Fighter",
+  "tank": "Tanque",
+  "millenniumFalcon": "Halcón Milenario",
+  "xwing": "X-Wing",
+  "footer": "© {year} Star Wars. Todos los derechos reservados."
+}

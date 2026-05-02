@@ -1,0 +1,17 @@
+{
+  "title": "The Factions of the Force",
+  "subtitle": "Two sides clashed in a war that would define the destiny of the galaxy.",
+  "imperial": "The Empire",
+  "rebel": "The Rebellion",
+  "leaderLabel": "Leader",
+  "troopsTitle": "Troops",
+  "vehiclesTitle": "Vehicles",
+  "infantry": "Infantry",
+  "droid": "Droid",
+  "walker": "Walker",
+  "tieFighter": "TIE Fighter",
+  "tank": "Tank",
+  "millenniumFalcon": "Millennium Falcon",
+  "xwing": "X-Wing",
+  "footer": "© {year} Star Wars. All rights reserved."
+}
